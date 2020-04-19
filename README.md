@@ -6,3 +6,4 @@ This project act as the Microservice for Front App to request for data.
 19 April 2020
 
 - /clients endpoint
+- / endpoint
